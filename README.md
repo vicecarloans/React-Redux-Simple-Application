@@ -1,4 +1,6 @@
 # React-Redux-Simple-Application
-![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg "React Logo")
-![Redux Logo](https://github.com/reactjs/redux/blob/master/logo/logo.svg "Redux Logo")
+<p align="center">
+  <a href="https://reactjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="100" alt="React"></a>
+  <a href="https://redux.js.org/"><img width="100" src="https://github.com/reactjs/redux/blob/master/logo/logo.svg" alt="Redux"></a>
+</p> 
 React-Redux Application That Fetches API and Returns Post
